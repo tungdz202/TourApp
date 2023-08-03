@@ -8,8 +8,6 @@ cài đặt môi trường: npm install
 build app: npm build
 chạy BE: npm start
 
-để crawldata: cd vào file crawldata và chạy node + tên file
-
 cài đặt chạy môi trường Front-end:
 tour-app:
 cài đặt môi trường: yarn install
