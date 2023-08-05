@@ -1,0 +1,9 @@
+.container{
+    width: 300px;
+    background-color: #F9FAFB;
+    min-height: 100vh;
+    z-index: 3;
+    position: fixed;
+    border-right:1px dashed #E0E4E8;
+}
+

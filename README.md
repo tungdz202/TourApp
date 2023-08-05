@@ -18,8 +18,8 @@ file .env cấu hình port trong BE và FE tại local:
 
 .env tại BE:
 PORT=8888
-MongoDB=
-SECRET_KEY=
+MongoDB=mongodb+srv://anhbt202:tunganhdaica2002@tour-database.dgh61um.mongodb.net/?retryWrites=true&w=majority
+SECRET_KEY=tungbosssuperdz
 ACCESSURL="http://localhost:3000"
 
 .env tại FE:
